@@ -1,0 +1,14 @@
+# Tennis Match Tracker Requirements
+# No external dependencies required for core functionality
+# Optional dependencies for enhanced features:
+
+# For email reminders
+# python-dotenv==1.0.0
+# flask==3.0.0
+
+# For database storage
+# sqlalchemy==2.0.0
+# sqlite3  # Built-in
+
+# For notifications
+# plyer==2.1.0

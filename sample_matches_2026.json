@@ -1,0 +1,90 @@
+[
+  {
+    "tournament": "Australian Open",
+    "date": "2026-01-19",
+    "time": "14:00",
+    "player1": "Novak Djokovic",
+    "player2": "Jannik Sinner",
+    "location": "Melbourne, Australia",
+    "match_type": "Singles",
+    "reminder_days": 1,
+    "id": "Australian_Open_2026-01-19_Novak_Djokovic_Jannik_Sinner"
+  },
+  {
+    "tournament": "Australian Open",
+    "date": "2026-01-24",
+    "time": "18:30",
+    "player1": "Aryna Sabalenka",
+    "player2": "Elena Rybakina",
+    "location": "Melbourne, Australia",
+    "match_type": "Singles",
+    "reminder_days": 1,
+    "id": "Australian_Open_2026-01-24_Aryna_Sabalenka_Elena_Rybakina"
+  },
+  {
+    "tournament": "French Open",
+    "date": "2026-05-24",
+    "time": "15:00",
+    "player1": "Rafael Nadal",
+    "player2": "Carlos Alcaraz",
+    "location": "Paris, France",
+    "match_type": "Singles",
+    "reminder_days": 2,
+    "id": "French_Open_2026-05-24_Rafael_Nadal_Carlos_Alcaraz"
+  },
+  {
+    "tournament": "French Open",
+    "date": "2026-06-04",
+    "time": "14:00",
+    "player1": "Iga Swiatek",
+    "player2": "Marketa Vondrousova",
+    "location": "Paris, France",
+    "match_type": "Singles",
+    "reminder_days": 2,
+    "id": "French_Open_2026-06-04_Iga_Swiatek_Marketa_Vondrousova"
+  },
+  {
+    "tournament": "Wimbledon",
+    "date": "2026-07-06",
+    "time": "13:00",
+    "player1": "Daniil Medvedev",
+    "player2": "Stefanos Tsitsipas",
+    "location": "London, England",
+    "match_type": "Singles",
+    "reminder_days": 2,
+    "id": "Wimbledon_2026-07-06_Daniil_Medvedev_Stefanos_Tsitsipas"
+  },
+  {
+    "tournament": "Wimbledon",
+    "date": "2026-07-11",
+    "time": "14:30",
+    "player1": "Marketa Vondrousova",
+    "player2": "Coco Gauff",
+    "location": "London, England",
+    "match_type": "Singles",
+    "reminder_days": 2,
+    "id": "Wimbledon_2026-07-11_Marketa_Vondrousova_Coco_Gauff"
+  },
+  {
+    "tournament": "US Open",
+    "date": "2026-08-31",
+    "time": "19:00",
+    "player1": "Jannik Sinner",
+    "player2": "Taylor Fritz",
+    "location": "New York, USA",
+    "match_type": "Singles",
+    "reminder_days": 3,
+    "id": "US_Open_2026-08-31_Jannik_Sinner_Taylor_Fritz"
+  },
+  {
+    "tournament": "US Open",
+    "date": "2026-09-12",
+    "time": "18:00",
+    "player1": "Coco Gauff",
+    "player2": "Aryna Sabalenka",
+    "location": "New York, USA",
+    "match_type": "Singles",
+    "reminder_days": 3,
+    "id": "US_Open_2026-09-12_Coco_Gauff_Aryna_Sabalenka"
+  }
+]
